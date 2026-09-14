@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Generated databases (regenerate with: python setup.py)
+data/*.db
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
